@@ -1,0 +1,11 @@
+Transaction Date,Posted Date,Activity Type,Transaction Type,Description,Currency Code,Amount
+05/31/2023,06/01/2023,"Interest","Credit","Interest Paid","USD","0.75"
+05/30/2023,05/30/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.84"
+05/28/2023,05/28/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.43"
+05/25/2023,05/25/2023,"ACH","Credit","ACH Online transfer from CITIZENS BANK NA ******5551","USD","50.00"
+05/20/2023,05/20/2023,"ACH","Credit","ACH Online transfer from CITIZENS BANK NA ******5551","USD","50.00"
+05/12/2023,05/12/2023,"ACH","Credit","ACH Online transfer from CITIZENS BANK NA ******5551","USD","50.00"
+05/11/2023,05/11/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.10"
+05/07/2023,05/07/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.43"
+05/04/2023,05/04/2023,"ACH","Credit","ACH Online transfer from CITIZENS BANK NA ******5551","USD","50.00"
+05/04/2023,05/04/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.71"

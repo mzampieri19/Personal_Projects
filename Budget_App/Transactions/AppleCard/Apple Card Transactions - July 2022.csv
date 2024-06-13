@@ -1,0 +1,9 @@
+Transaction Date,Clearing Date,Description,Merchant,Category,Type,Amount (USD),Purchased By
+07/31/2022,07/31/2022,"ACH DEPOSIT INTERNET TRANSFER FROM ACCOUNT ENDING IN 5551","Ach Deposit Internet Transfer From Account Ending In 5551","Payment","Payment","-217.56","Michelangelo Zampieri"
+07/22/2022,07/22/2022,"KELL'S KREME 437 REVERE BEACH BLVD REVERE 02151 MA USA","Kell's Kreme","Grocery","Purchase","31.73","Michelangelo Zampieri"
+07/21/2022,07/21/2022,"UBER EATS 1455 MARKET ST 8005928996 94103 CA USA","Uber","Restaurants","Purchase","41.68","Michelangelo Zampieri"
+07/17/2022,07/18/2022,"EXXONMOBIL 97451678612 MIDDLESEX TPKE BILLERICA 01821 MA USA","Exxonmobil 97451678","Gas","Purchase","50.56","Michelangelo Zampieri"
+07/16/2022,07/17/2022,"UBER EATS 1455 MARKET ST 8005928996 94103 CA USA","Uber Eats","Restaurants","Purchase","22.71","Michelangelo Zampieri"
+07/15/2022,07/16/2022,"APPLE.COM/BILL ONE APPLE PARK WAY 866-712-7753 95014 CA USA","Apple Services","Other","Purchase","12.10","Michelangelo Zampieri"
+07/13/2022,07/14/2022,"PRESSED CAFE BURLINGT 200 DISTRICT AVE BURLINGTON 01803 MA USA","Pressed Cafe","Restaurants","Purchase","48.69","Michelangelo Zampieri"
+07/11/2022,07/12/2022,"SQ *FROZEN HOAGIES 534 MAIN STREET WINCHESTER 01890 MA USA","Frozen","Restaurants","Purchase","10.09","Michelangelo Zampieri"

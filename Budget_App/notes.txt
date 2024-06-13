@@ -1,0 +1,30 @@
+Information that I want to keep 
+    Transaction Date 
+    Amount
+    Credit/Debit 
+    Category (Grocery/ Health etc based on apple card)
+
+Data to manipulate 
+    Apple Card 
+        remove clearing date 
+        remove merchnat 
+        category will give categroy 
+        remove type (+/- will give creidt or debit)
+        remove perchused by 
+
+    Apple Savings
+        remove posted date 
+        remove description 
+        remove currency 
+
+    AMEX
+        remove extended details
+        remove appears on statement
+        remove address, city, zip, and country and reference
+        amount will give debit or credit 
+    
+    Capital One
+        remove posted date 
+        remove card number 
+        remove debit or credit (which one its not) 
+

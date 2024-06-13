@@ -1,0 +1,10 @@
+Transaction Date,Posted Date,Activity Type,Transaction Type,Description,Currency Code,Amount
+10/31/2023,11/01/2023,"Interest","Credit","Interest Paid","USD","4.44"
+10/30/2023,10/30/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.16"
+10/26/2023,10/26/2023,"ACH","Credit","ACH Online transfer from CAPITAL ONE N.A. *******7422","USD","50.00"
+10/26/2023,10/26/2023,"Rewards","Credit","Daily Cash Deposit","USD","1.40"
+10/21/2023,10/21/2023,"ACH","Credit","ACH Online transfer from CAPITAL ONE N.A. *******7422","USD","50.00"
+10/12/2023,10/12/2023,"ACH","Credit","ACH Online transfer from CAPITAL ONE N.A. *******7422","USD","50.00"
+10/12/2023,10/12/2023,"Rewards","Credit","Daily Cash Deposit","USD","1.20"
+10/11/2023,10/11/2023,"Rewards","Credit","Daily Cash Deposit","USD","0.10"
+10/05/2023,10/05/2023,"ACH","Credit","ACH Online transfer from CAPITAL ONE N.A. *******7422","USD","50.00"
