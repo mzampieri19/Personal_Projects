@@ -30,5 +30,3 @@ Center Finder
     Shows current center, and a little map of where it is 
     Below will be a find center botton whcih prompts them to enter a town and state name to find a center near them, will show 'center card'
     has distance from town center, name, and contact so they can request a treatment there. 
-
-

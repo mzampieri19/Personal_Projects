@@ -48,6 +48,10 @@
 
 - 6-18-24: Created the neccessary files using npm and created teh envoirment to begin building the app. Also began to think of how I want the app to look like with the page layout and general style. Began working on the tab navigations. Added a bit of style to the tabs and made them work. 
 
+### Took a puse for around a week to focus on my summer courses.
+
+- 6-30-24: Rearranged some of the app files, also added icons to the tab navigator and began wokring on the background async storage with a simple log in and log out screen. Tested the async by adding the user name on another screen. Seems to be working well 
+
 ---------------------------------------------------------------------------------------------------------
 
 ### More projects to be added!

@@ -8,6 +8,9 @@ import TreatmentSummary from './TreatmentSummary';
 import CenterFinder from './CenterFinder';
 import Account from './Account';
 import ValueProvider from './ValueContext';
+import { Ionicons } from '@expo/vector-icons';
+import { Image } from 'react-native';
+
 
 
 const Tab = createBottomTabNavigator();
@@ -37,28 +40,53 @@ export default function App() {
           <Tab.Screen 
             name="Home" 
             component={LiquidTracker}
-            options={tabOptions} 
+            options={{
+                tabBarIcon: () => (
+                    <Image source={require('/Users/michelangelozampieri/Desktop/Repositories/Personal_Projects/DTA/assets/measure.png')} style={{width: 20, height: 20}} />
+
+                )
+            }}
 
          />
           <Tab.Screen 
             name="Scanner" 
             component={FoodScanner} 
-            options = {tabOptions}
+            options={{
+                tabBarIcon: () => (
+                    <Image source={require('/Users/michelangelozampieri/Desktop/Repositories/Personal_Projects/DTA/assets/cutlery.png')} style={{width: 20, height: 20}} />
+
+                )
+            }}
           />
           <Tab.Screen 
             name="Treatment" 
             component={TreatmentSummary} 
-            options = {tabOptions}
+            options={{
+                tabBarIcon: () => (
+                    <Image source={require('/Users/michelangelozampieri/Desktop/Repositories/Personal_Projects/DTA/assets/dialysis-machine.png')} style={{width: 20, height: 20}} />
+
+                )
+            }}
           />
           <Tab.Screen 
             name="Centers" 
             component={CenterFinder} 
-            options = {tabOptions}
+            options={{
+                tabBarIcon: () => (
+                    <Image source={require('/Users/michelangelozampieri/Desktop/Repositories/Personal_Projects/DTA/assets/maps-and-flags.png')} style={{width: 20, height: 20}} />
+
+                )
+            }}
           />
           <Tab.Screen 
             name="Account" 
             component={Account} 
-            options = {tabOptions}
+            options={{
+                tabBarIcon: () => (
+                    <Image source={require('/Users/michelangelozampieri/Desktop/Repositories/Personal_Projects/DTA/assets/account.png')} style={{width: 20, height: 20}} />
+
+                )
+            }}
           />
          
 
