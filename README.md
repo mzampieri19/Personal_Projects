@@ -46,7 +46,9 @@
 
 ### Edit History 
 
-- 6-18-24: Created the neccessary files using npm and created teh envoirment to begin building the app. Also began to think of how I want the app to look like with the page layout and general style. Began working on the tab navigations. Added a bit of style to the tabs and made them work. 
+- 6-18-24: Created the neccessary files using npm and created teh envoirment to begin building the app. Also began to think of how I want the app to look like with the page layout and general style. Began working on the tab navigations. Added a bit of style to the tabs and made them work.
+
+### Needed to take a break from this project to focus on my summer classes will continue to work on it when I can
 
 ### Took a puse for around a week to focus on my summer courses.
 
